@@ -1,0 +1,12 @@
+{
+  "name": "memetics-plugin",
+  "description": "14 skills for idea spread, cultural transmission, and strategic communication — based on Memetics 101.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gnurio"
+  },
+  "homepage": "https://github.com/gnurio/memetics-plugin",
+  "repository": "https://github.com/gnurio/memetics-plugin",
+  "license": "MIT",
+  "keywords": ["memetics", "strategy", "communication", "ideas", "viral", "content"]
+}

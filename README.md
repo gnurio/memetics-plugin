@@ -1,6 +1,48 @@
-# Memetics Plugin for Claude
+# Memetics Plugin for Claude and Cursor
 
 A complete skill extraction and orchestration system for memetics — the science of idea spread, cultural transmission, and strategic communication.
+
+## Installation
+
+### Cursor
+
+Clone the repo into your local Cursor plugins directory and restart Cursor:
+
+```bash
+git clone https://github.com/gnurio/memetics-plugin ~/.cursor/plugins/local/memetics-plugin
+```
+
+Cursor will automatically discover all 14 skills from the `skills/` directory.
+
+### Claude Code
+
+Install the recommended entry point (the orchestrator that routes to all other skills):
+
+```bash
+scripts/install-skill-from-github.py --repo gnurio/memetics-plugin --path skills/orchestrate-memetics
+```
+
+To install all 14 skills at once:
+
+```bash
+scripts/install-skill-from-github.py --repo gnurio/memetics-plugin \
+  --path skills/orchestrate-memetics \
+          skills/classify-idea \
+          skills/assess-fitness \
+          skills/evaluate-fitness \
+          skills/map-network \
+          skills/design-strategy \
+          skills/identify-champions \
+          skills/craft-content \
+          skills/detect-supermeme \
+          skills/transform-taboo \
+          skills/build-immunity \
+          skills/execute-calendar \
+          skills/monitor-receptivity \
+          skills/apply-domain
+```
+
+Restart Claude Code after installing to pick up the new skills.
 
 ## What's Inside
 
