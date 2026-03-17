@@ -283,6 +283,18 @@ This plugin does one thing: extract the actionable procedural knowledge from a b
 
 ---
 
-*Source: Memetics 101 — Practical Guide, Difference between meme and cliché, Examples of memes antimemes and clichés*
+---
+
+## Source Material
+
+This plugin is built directly from these texts — not adjacent inspiration, but the actual frameworks the skills implement.
+
+| Source | Author | What It Contributes |
+|---|---|---|
+| *Antimemetics* | Nadia Asparouhova & Leïth Benkhedda (2025) | Primary source. The full meme/antimeme/supermeme/cliché taxonomy, dark forest model, champion theory, tipping point mechanics, and the case against supermeme traps. |
+| *There Is No Antimemetics Division* | qntm | Where the concept of "antimeme" originated — self-erasing information that resists being held in mind. The SCP Foundation fiction that Nadia's framework builds on. |
+| ["The Tyranny of Ideas"](https://nadia.xyz/ideas) | Nadia Asparouhova | Ideas as living entities with agency over their creators. Philosophical grounding for treating idea transmission as a design problem, not a luck problem. |
+| "I Read a 30-Page Paper on Memes" | Jason Levin | Practical warfare layer: Ukraine's dual-account model, villain narrative mechanics, the 1up Sales SaaS meme case, NATO's definition of memetic warfare. |
+| *Deceit, Desire, and the Novel* | René Girard | Mimetic desire theory — the Subject/Object/Model triangle that underlies `analyze-memeplex` and why ideas spread through imitation of desire, not direct persuasion. |
 
 *Status: 12 confirmed skills, 4 speculative with explicit gap markers*
