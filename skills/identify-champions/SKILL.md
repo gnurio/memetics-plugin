@@ -437,6 +437,30 @@ Use these to assess champion fit:
 | [Name 2] | [Function] | [Audience] | [Committed | Prospect] |
 ```
 
+## The Yarvin Case Study: Champion Pattern Recognition
+
+A worked example of how champions operate, from the source material:
+
+"There was no predictable way that a connection in my network would bring up Yarvin's name in conversation. It was usually in the context of a trusted interaction, where we'd gone back and forth enough around related ideas, that someone would then feel comfortable enough to mention his work."
+
+This illustrates a critical pattern: **champions share ideas through trust-building interactions, not broadcasting**. Initial spread is low-friction, contextual, and embedded in existing relationships.
+
+"It turned out that a lot of people I knew were reading his work — and, like me, not mentioning it unless asked. In epidemiological terms, many of the nodes in my network were 'infected,' but the transmission rate was still low."
+
+This is the patience phase: **the idea is already spreading (nodes infected) but transmission rate is low**. Many believers exist, but they're not yet openly advocating. This is the antimeme phase.
+
+"I noted a growing frequency with which new, and often unexpected, acquaintances would bring him up in early conversation. As nodes began to infect other nodes, Yarvin simply faded into view."
+
+This is the tipping point: when transmission rate increases, the idea suddenly becomes visible. What changed wasn't the idea or the believers — it was network topology shifting. More nodes became infected → more transmissions → exponential growth.
+
+**Key insight for champion identification:** Champions don't create spread from scratch. They persist through the invisible phase (years 1-2) when transmission is low but nodes are infected. Once conditions shift, those existing believers suddenly become visible.
+
+This means when recruiting champions:
+- Look for people already quietly believing (infected nodes)
+- Understand they'll be invisible for years
+- Their role is persistent presence, not immediate viral growth
+- Success is when "the idea simply fades into view" naturally
+
 ## Common Champion Mistakes
 
 **Mistake 1: Recruiting for intelligence instead of commitment**

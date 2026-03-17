@@ -40,6 +40,23 @@ Outputs scored assessment that feeds into strategy design.
 
 How likely is an "infected" person to spread the idea to others?
 
+### The K-Factor Formula
+
+Transmission dynamics can be modeled using the K-factor from epidemiology:
+
+**K = i × c**
+
+Where:
+- **i** = number of invites/exposures sent by a person who believes
+- **c** = conversion rate (probability each exposure converts someone)
+
+**Interpretation:**
+- **K > 1** = exponential growth (idea spreads)
+- **K < 1** = exponential decay (idea dies out)
+- **K = 1** = stable equilibrium (spreads to some people, stalls)
+
+This formula shows why transmission rate matters: even ideas with many invites (high i) can fail if conversion is low. Conversely, highly compelling ideas (high c) need fewer advocates (lower i) to achieve growth.
+
 ### High Transmission Indicators
 
 **Emotional Activation:**
@@ -65,6 +82,29 @@ Example: A 5-word phrase beats a 500-word essay
 - ✓ Requires little cognitive adjustment
 
 Example: "Effective altruism" (builds on existing "do good" value) vs. "Extreme hedonism is actually ethical" (contradicts)
+
+### The Drag Coefficient
+
+Antimemes don't just lack viral coefficient — they have a **drag coefficient**: the amount of resistance that must be overcome before the idea can spread more easily.
+
+**Key insight:** "Antimemes have not just a viral coefficient, but a drag coefficient as well: the amount of resistance that must be overcome before the idea can spread more easily. Some antimemes reach escape velocity and become memetic."
+
+This means transmission rate assessment must account for:
+1. **Initial drag** (how much resistance before the first spread?)
+2. **Escape velocity threshold** (what conditions allow breakthrough?)
+3. **Network-dependent drag** (resistance varies by audience)
+
+Some antimemes remain low-transmission indefinitely. Others overcome drag through champions, network shifts, or cultural readiness.
+
+### Network-Dependent Transmission
+
+Critical insight: "Immunity and transmission rate are determined not just by the qualities of the idea itself — how innately viral it is — but how receptive its nodes are. The same idea might be memetic within certain networks, but antimemetic in others."
+
+**Implication for assessment:**
+- Transmission is not fixed to the idea
+- The same idea can have HIGH transmission in one network and LOW in another
+- Network selection and audience targeting are as important as content
+- Consider scoring transmission separately for each target network
 
 **Perceived Impact:**
 - ✓ Seems important to people who might spread it
@@ -280,6 +320,20 @@ How long do people actively express/think about the idea?
 - Ideas get tested and defended
 - Controversial (so thinking about it)
 - Active opposition (engages believers)
+
+### Format and Presentation Shape Transmission
+
+Important nuance: "Changing the properties of the idea — such as the format or structure it's presented in — can influence a network's transmission rate and immunity, but these properties are always subjectively defined by what resonates with the network."
+
+**Implication:** Transmission rate is not just content — it's form + audience fit.
+- Same idea in essay format → LOW transmission
+- Same idea as Twitter thread → MEDIUM transmission
+- Same idea as animated video → HIGH transmission
+
+The "drag coefficient" can sometimes be overcome through format innovation. When assessing transmission rate, consider:
+- Current format and its fit to network
+- Alternative formats that might increase transmission
+- Presentation changes that reduce immune response
 
 ### Scoring Symptomatic Period
 

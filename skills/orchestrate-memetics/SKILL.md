@@ -21,7 +21,7 @@ Takes any memetics question or task and:
 5. Accumulates context so later skills have full information
 6. Returns final answer to user with reasoning chain
 
-This skill sits above the 13 specialized skills and orchestrates them intelligently.
+This skill sits above the 16 specialized skills and orchestrates them intelligently.
 
 ## When to Use This Skill
 
@@ -55,6 +55,8 @@ Don't use this skill if:
 | monitor-receptivity | Idea in development | Readiness assessment + phase advancement recommendation | User needs to know when network is ready |
 | build-immunity | Network description | Immunity strategy + tactics | User wants to defend network against bad memes |
 | apply-domain | General strategy + domain | Domain-specific playbook | User wants to adapt strategy to their domain |
+| reframe-idea | Failed/stuck idea + failure reason | 2-3 reframed versions + recommendation | Idea classified as cliché, NO-GO from assess, or confirmed supermeme |
+| analyze-memeplex | Idea + optional network context | Memeplex map + competitive landscape + mimetic desire analysis | User wants to understand the idea ecosystem before spreading |
 
 ## Routing Logic
 
@@ -113,16 +115,32 @@ User: "How do I make my team more resistant to bad ideas?"
 → (Standalone defensive skill)
 ```
 
+**Pattern 8: Dead End Recovery**
+```
+User: "This idea isn't working" or "How do I make this spreadable?"
+→ START: reframe-idea
+→ ROUTE TO: classify-idea (re-classify reframed version)
+→ ROUTE TO: assess-fitness (re-assess)
+```
+
+**Pattern 9: Ecosystem Understanding**
+```
+User: "What's the landscape around this idea?" or "Why does this keep failing?"
+→ START: analyze-memeplex
+→ ROUTE TO: design-strategy (informed by landscape)
+```
+
 ### Chaining Rules
 
 After each skill produces output, follow these rules for next step:
 
 **From classify-idea:**
 - If supermeme (4-5 red flags) → ROUTE TO: detect-supermeme
-- If cliche → INFORM USER: idea has lost infective power, suggest reframe
+- If cliche → ROUTE TO: reframe-idea (recover novelty)
 - If meme or antimeme → ROUTE TO: assess-fitness
 
 **From assess-fitness:**
+- If NO-GO but idea has potential → ROUTE TO: reframe-idea (restructure for viability)
 - If NO-GO → RETURN TO USER with explanation, end chain
 - If GO → ROUTE TO: identify-champions AND map-network (parallel)
 
@@ -136,8 +154,21 @@ After each skill produces output, follow these rules for next step:
 - If taboo → ROUTE TO: transform-taboo → monitor-receptivity
 - If non-taboo → ROUTE TO: monitor-receptivity
 
+**From detect-supermeme:**
+- If confirmed supermeme and user wants to spread anyway → ROUTE TO: reframe-idea (narrow to tractable sub-problem)
+
 **From craft-content:**
 - ROUTE TO: execute-calendar (for scheduling)
+
+**From reframe-idea:**
+- ROUTE TO: classify-idea (verify reframed version escaped failure mode)
+- If reframe produces viable antimeme → ROUTE TO: design-strategy
+- If reframe produces meme → ROUTE TO: craft-content
+
+**From analyze-memeplex:**
+- ROUTE TO: design-strategy (with landscape awareness)
+- ROUTE TO: identify-champions (find models driving mimetic desire)
+- ROUTE TO: reframe-idea (if idea sits in hostile memeplex)
 
 **From any skill:**
 - User asks for domain adaptation → ROUTE TO: apply-domain
@@ -233,6 +264,19 @@ context = {
   "calendar": {
     "schedule": "..."
     "frequency": "3-5/day"
+  },
+
+  "reframe": {
+    "original_failure": "cliche|supermeme|no-go",
+    "reframed_versions": [],
+    "chosen_reframe": null
+  },
+
+  "memeplex": {
+    "own_memeplex": null,
+    "competitors": [],
+    "mimetic_desire": null,
+    "vulnerabilities": []
   },
 
   "risks": ["Burnout", "Immunity increase"],
@@ -337,6 +381,5 @@ The orchestrator is working well if:
 ## References
 
 See:
-- `/decomposition.md` for skill inventory and I/O contracts
 - `/references/source-summary.md` for decision frameworks
-- Individual skill SKILL.md files for detailed processes
+- Individual skill SKILL.md files for I/O contracts and detailed processes

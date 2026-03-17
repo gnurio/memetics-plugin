@@ -42,6 +42,40 @@ Outputs ready-to-post content with transmissibility assessment and risk evaluati
 - execute-calendar (schedules the approved content)
 - identify-champions (champions can amplify approved content)
 
+## Content Mechanics: Why People Share
+
+Before crafting individual pieces, understand the deeper mechanics of memetic transmission.
+
+### The Mimetic Desire Principle
+
+People replicate memes because they are imitating a memeplex—a political philosophy, a trendy subculture, a desirable way of life. Content that succeeds doesn't just transmit information; it transmits a MODEL of how to be.
+
+Your content should tap into the MODEL the audience wants to imitate, not just the information they want to absorb. When you show someone an example of the lifestyle, identity, or worldview they aspire to, they become compelled to share it.
+
+**Example:** A content piece about "how remote workers stay productive" only works if it also models a desirable lifestyle that people want to imitate. The productivity tips are secondary to the message: "This is how interesting, autonomous, self-directed people live."
+
+### The Scale of Models Through Platforms
+
+Social platforms didn't just expose us to more information—they exposed us to more MODELS of desire at unprecedented scale. They also incentivized competition over these models by doling out cheap rewards: likes, shares, followers.
+
+This created an arms race in model-making. The platforms reward creators who make themselves attractive to imitate, which accelerates the spread of memes tied to desirable identities.
+
+### Vibes vs. Memes: The Experience Layer
+
+There's a critical distinction between spreading information (memes) and creating experiences (vibes):
+
+**Vibes are about experiencing, not replicating.** The best content creates an experience or vibe that can't be precisely replicated—it can only be participated in. While regular memes are easily copied and passed along, vibes require presence and participation.
+
+This means the highest-transmission content often works at both levels: it contains a memetic core (shareable concept) wrapped in a vibes layer (unreplicable experience).
+
+### Authenticity as Transmissibility
+
+"Creative self-expression is the only way we will continue to make our mark as humans in times of uncertainty, and it doesn't come from doing what you think will sell to other people. It comes from wanting to express something deep in your soul."
+
+The most transmissible content is authentically motivated, not engineered. When a creator truly believes in what they're sharing—when it comes from genuine conviction rather than calculated strategy—it broadcasts a signal that audiences can detect. This authenticity itself becomes the model people want to imitate.
+
+---
+
 ## Process
 
 ### Step 1: Identify or Create Villain Narrative

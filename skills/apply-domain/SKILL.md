@@ -85,17 +85,19 @@ Building yourself as a recognized authority and trusted voice in a specific doma
 
 ### General Playbook for Personal Branding
 
-**Step 1: Build Memetic Library**
+**Step 1: Build Memetic Library (Create Experiences, Not Memes)**
 - Collect reusable hooks, frameworks, metaphors
 - Signature ideas you're known for
 - 3-5 core concepts you repeat
 - Examples and stories illustrating each
+- **Vibes > Memes:** Create experiences that resist precise definition rather than trying to engineer replicable content. Focus on community, culture, and belonging rather than formulaic attention-grabbing.
 
 **Step 2: Pick Your Villain**
 - What are you fighting against?
 - System, company, idea - not person
 - Credibility anchor (you're against X, therefore for Y)
 - Example: Fighting "conventional wisdom" ⟹ for "original thinking"
+- Note: "It's more prestigious — by mimetic standards — to use proven formulas for grabbing attention than to do something risky and original" — personal brands that take genuine creative risks stand out BECAUSE most people don't.
 
 **Step 3: Create Rituals**
 - Consistent posting schedule
@@ -110,11 +112,12 @@ Building yourself as a recognized authority and trusted voice in a specific doma
 - Easier to become "top voice" in niche
 - Don't try to appeal to everyone
 
-**Step 5: Secondary Channels**
+**Step 5: Secondary Channels (Risk Management)**
 - Test riskier ideas on alt account
 - Experiment without brand risk
 - Some experiments move to main
 - Keep brand consistent, reserve experimental
+- Strategy: Use secondary account for the risky, experimental work while primary builds credibility through proven approaches
 
 ### Domain-Specific Metrics
 
@@ -177,6 +180,12 @@ Getting adoption for a new product, service, or company in competitive market.
 - Deep engagement with early adopters
 - Community building around product
 - Long-term loyalty and expansion
+- Use private/dense networks to refine before public launch
+
+**Step 2.5: Memetic/Antimemetic City Dependency**
+- Memetic and antimemetic cities depend on each other: the stronger memes become, the more we need private spaces to refine them
+- Product launches should use dense networks (beta groups, private communities) to refine before going sparse (public launch)
+- Test and iterate in Phase 1 (dark forest / private beta), emerge in Phase 2 (coordinated emergence with handpicked networks), then go public in Phase 3
 
 **Step 3: Narrative Warfare**
 - Control story about your category
@@ -190,11 +199,12 @@ Getting adoption for a new product, service, or company in competitive market.
 - Which networks have lowest resistance?
 - Where should you launch first?
 
-**Step 5: Champion Recruitment**
+**Step 5: Champion Recruitment (Open Source Lesson Applied)**
 - Find advocates willing to promote for years
 - Influencers, community leaders, experts
 - Create program with incentives
 - Long-term engagement vs. one-off
+- **Open Source Lesson:** After talking to hundreds of developers, most projects were built by one or a few developers who faced burdensome demands for customer support. Open, borderless communities were a recipe for entitlement, rather than collaboration. Movements and products that go fully open too early face the same problem. Start dense, go sparse strategically.
 
 ### Domain-Specific Metrics
 
@@ -263,13 +273,22 @@ Creating lasting cultural or value shift in large populations.
 - Create measurable goals
 - Prevent attention consumption
 
-**Step 4: Network Building**
+**Step 4: Navigate Institutional Bottlenecks**
+- Social institutions are the bottlenecks through which all ideological demands must eventually pass
+- Culture wars intensify when too many competing ideas are jostling for limited paths to change
+- Movements must identify and navigate institutional bottlenecks, not just build public support
+- Map which institutions control policy, culture, practice in your domain
+- Target bottleneck entry points strategically
+
+**Step 5: Network Building (Start Dense, Go Sparse)**
 - Create private spaces for believers
 - Develop shared language
 - Build trust and commitment
 - Create community culture
+- Start with dense networks before going sparse
+- Movements that go fully open too early face entitlement and dilution
 
-**Step 5: Long Timeline**
+**Step 6: Long Timeline**
 - Plan for 5-10 year effort minimum
 - First 2 years: mostly failure
 - Champions need to persist through doubt

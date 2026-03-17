@@ -165,6 +165,28 @@ How confident are you in this classification?
 - Insufficient information (ask user for clarification)
 - Idea is new and precedent-lacking
 
+## Deeper Source Context
+
+### The Vibes Concept
+
+Vibes combine the qualities of both memes and antimemes. They can still spread memetically but are innately difficult to define, like an antimeme. — Peter Limberg "Meme to Vibe" essay
+
+Vibes resist classification because defining them precisely destroys their essence. This is actually a feature, not a failure. Flag to users: if an idea resists clean classification into meme/antimeme/supermeme, it may be a "vibe" — which means it has legitimate transmission properties that traditional frameworks miss.
+
+### Dormant Ideas (The 5th Category)
+
+The classification system has a fifth category beyond meme/antimeme/supermeme/cliche: **dormant or non-memetic ideas**. These are ideas with neither transmission nor impact — ideas that fail on both dimensions.
+
+"We can classify cultural objects as being memetic, antimemetic, supermemetic, or dormant (non-memetic)."
+
+When evaluating ideas, consider adding a note to your classification matrix: if something has neither high transmissibility nor high impact, it may simply be dormant — worth setting aside rather than attempting to spread.
+
+### On High-Impact Normalized Behaviors
+
+Some of the most consequential memetic behaviors require little effort to process. "Even more consequential memetic behaviors, like marriage or working a salaried office job, don't require much energy to process, because most of us were socialized into these norms."
+
+This reveals an important insight: an idea can be both high-impact AND easily transmissible if it's normalized through socialization. The classification should account for this — normalized ideas spread without requiring active advocacy.
+
 ## Examples from Source Material
 
 ### Clear Meme Examples

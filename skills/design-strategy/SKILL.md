@@ -176,6 +176,30 @@ Use this for high-impact ideas that face network resistance (low transmissibilit
    - Appear community-led (not top-down)
    - Create sense of movement without revealing orchestration
 
+---
+
+## Worked Example: The Monday Mafia (from source)
+
+A classic case study of Phase 2 strategy in action demonstrates the power of coordinated, private emergence.
+
+**The Opportunity:** Someone conducted research showing that people are more likely to be depressed on Mondays. The Monday Mafia spots this opportunity and decides to act.
+
+**The Strategy:** Rather than announcing themselves as a united front, the approach is subtly coordinated:
+
+1. **Initial Public Seeding:** Just one member, Groucho Garfield, publishes a social media post lamenting how awful Mondays are. To the public, Garfield only represents himself—no group affiliation, no hint of coordination.
+
+2. **Amplification Through Apparent Independence:** Other members then share Garfield's post, and publish their own independent statements in support. Each person writes in their own voice, using different examples and framings. To observers, they appear to represent only themselves, with no mention of group affiliation.
+
+3. **Creating the Illusion of Broad Agreement:** The result is powerful: multiple uncoordinated voices discussing the same concern. When people see several people discussing independently, it feels bigger than it is. The reality is 5-10 people; the perception is "lots of people are thinking about this."
+
+4. **Lowering Social Cost for Others to Join:** This appearance of uncoordinated agreement is crucial. If only secret insiders knew about the idea, people would avoid it. But because it's visible and appears organically supported by multiple independent voices, the social cost for others to join drops significantly. People feel safe engaging.
+
+**Key Principle:** "In order to maintain influence, members must carefully balance how frequently and overtly they support each other's views to avoid being 'outed.' The coordination must remain private while the outputs appear organic."
+
+**The Cascading Effect:** If the Monday Mafia is publicly identified, other siloed networks with similar views might come out in support, forming a bigger coalition that snowballs. What once seemed taboo suddenly appears to achieve widespread acceptance. The network effect multiplies.
+
+**The Risk:** However, if other networks fail to rally, the Monday Mafia risks being cast out as a "fringe" interest group. The game resets and plays again. This is why Phase 2 requires patience—you're testing whether real broad agreement exists, or if you've just created a sophisticated echo chamber.
+
 **Success Metrics for Phase 2:**
 - ✓ Members independently discussing the idea (in their own words)
 - ✓ External people are aware idea exists (not asking "what's this?")

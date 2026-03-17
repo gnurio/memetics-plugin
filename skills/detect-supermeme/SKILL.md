@@ -42,6 +42,35 @@ Outputs assessment with specific defense tactics.
 - build-immunity (systemic defense at network level)
 - design-strategy (only if supermeme can be reframed into tractable problem)
 
+## Key Context: Understanding Supermemes
+
+### Speciated Supermemes
+
+Historically, there was one dominant supermeme per civilization that unified attention. "The private web fostered the emergence of diverse supermemes. What was once a single, unifying supermeme has now 'speciated' into many rare and exotic forms, each uniquely tailored to the needs and values of its network."
+
+This means: supermemes are increasingly fragmented. You might be seeing a specialized version designed for your specific network rather than a universal supermeme. When assessing, consider: is this supermeme universal or specialized to your group?
+
+### War as Civilization's Oldest Supermeme
+
+Understanding supermeme mechanics requires recognizing the primordial example: "War is human civilization's oldest supermeme: a violent outgrowth of mimetic competition for limited resources. It forces everyone in the network to direct their attention towards a single narrative."
+
+Why war succeeded as a supermeme:
+- Forces unified attention (you must choose sides)
+- High stakes (literal survival)
+- Emotionally activating (fear, courage, tribalism)
+- Endless renewal (foreign threats always possible)
+- Clear metrics (win/lose, alive/dead)
+
+This explains supermemes more broadly: they succeed by creating mandatory attention and external threats.
+
+### The Domestic Tension Insight
+
+"Without a foreign threat to distract us from within-group differences, civilians become restless and start picking fights with each other. Their attention turns to angling for new supermemes."
+
+This reveals a critical mechanism: supermemes rise when internal conflict surfaces. If a civilization lacks external enemy, it will generate internal supermemes to redirect attention.
+
+Implication: When detecting supermemes, ask: is this filling an attention vacuum? Did it emerge because an older supermeme (like war against external enemy) has faded?
+
 ## Red Flag Assessment
 
 Supermemes have 5 characteristic red flags. Score your idea:
@@ -384,6 +413,18 @@ Rationale: [why you might not work on this]
 
 [Specific advice for this person and supermeme]
 ```
+
+### Institutional Bottlenecks
+
+Critical context: "Social institutions — whether media, academia, or the political machine — are the bottlenecks through which all ideological demands must eventually pass."
+
+This means:
+- Supermemes often compete to become the dominant narrative through institutions
+- Institutions amplify supermemes (media loves conflict, attention)
+- Understanding supermeme dynamics requires understanding which institutions amplify them
+- Control of institutions = control of supermeme bandwidth
+
+When assessing a supermeme: Is it being amplified through institutional channels? If yes, it's likely succeeding because institutions benefit from the attention cycle.
 
 ## Common Supermeme Mistakes
 

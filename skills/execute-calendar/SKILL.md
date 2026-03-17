@@ -111,7 +111,9 @@ Option 3: Content-Based
 - Supporting on LinkedIn (professional credibility)
 - Rare on Facebook/Instagram (different audiences, different content)
 
-### Content Rotation Strategy
+### Content Rotation Strategy: Vary by Objective
+
+The two-way nature of social media implies that authors have to persuade their own audience to help spread their message in order to reach wider audiences. Different objectives may require spreading different types of content.
 
 **Weekly Pattern (Example):**
 
@@ -133,8 +135,17 @@ Day 6-7: Strongest performers repeated (audiences change)
 - Reaches different audience segments
 - Tests which angles resonate
 - Maximizes algorithmic distribution
+- Serves different objectives (awareness vs. conversion vs. community building)
 
-### Secondary Account Strategy
+**For Antimeme/Slow Content:**
+In the Dark Forest era, virality is no longer automatically considered desirable. If an idea spreads too quickly, it might escape its original context; its meaning could become distorted. Calendar for antimemes should deliberately SLOW the posting rate vs. memes — quality over frequency, selected audiences over maximum reach.
+
+### Secondary Account Strategy: The Jason Levin Model
+
+Create a 2nd meme account to be goofy and make fun of people. If you're afraid to say something on the main account, do it on a 2nd account. Then if it blows up, blame the "social media intern."
+
+**Real-World Example (Ukraine):**
+Official account (hero narrative) + @uamemesforces (villain narrative) — two accounts serve different strategic purposes.
 
 **Primary Account Standards:**
 - ✓ Professional enough for your brand
@@ -152,6 +163,9 @@ Day 6-7: Strongest performers repeated (audiences change)
 - Risk level LOW → Primary account
 - Risk level MEDIUM → Depends on brand, probably primary
 - Risk level HIGH → Secondary account
+
+**Revenue Proof:**
+1up built an IG page dedicated to sales memes and drove 1/3 of their revenue thanks to memes — secondary accounts can be business drivers, not just risk hedges.
 
 ### Measurement and Tracking
 

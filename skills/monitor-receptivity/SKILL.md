@@ -43,120 +43,134 @@ Outputs readiness assessment with phase advancement recommendation.
 - design-strategy (determines if conditions met to advance phases)
 - transform-taboo (guides when taboo has enough acceptance)
 
-## [NEEDS SOURCE MATERIAL]
+## The Yarvin Case Study: A Complete Worked Example
 
-The source material mentions:
-- "Monitor which networks show receptivity" (line 80)
-- "Monitor conditions" (line 111)
-- But doesn't specify HOW to monitor or WHAT to look for
+The source material provides the Yarvin case as a complete example of receptivity monitoring and phase advancement. Understanding this case teaches the specific indicators, decision rules, and timing questions needed to monitor any idea's readiness for advancement.
 
-To complete this skill, need:
-1. **Specific indicators of reduced immunity** - Behavioral signals, linguistic patterns, network metrics?
-2. **Measurement methods** - Surveys, archival analysis, informant networks, sentiment analysis?
-3. **Decision rules** - What thresholds indicate phase advancement?
-4. **Frequency of monitoring** - How often should you assess?
-5. **False positive filtering** - How to distinguish genuine receptivity from noise?
+**The Arc:**
+Yarvin's ideas spread gradually through intellectual networks over years. Eventually he became mainstream enough that his presence became self-evident. Here's what the monitoring signals looked like at each stage:
 
-## Based on Available Context
+### Observable Signals of Decreasing Immunity: The Yarvin Example
 
-Here's what we can infer from the source material:
+**Phase 1 → Phase 2 Signals (Dark Forest → Coordinated Emergence):**
 
-### Observable Signals of Decreasing Immunity
-
-Based on memetics principles, probable signals include:
-
-**Signal Type 1: Organic Discussion**
+**Signal Type 1: Organic Discussion (Unprompted Mentions)**
+- "A growing frequency with which new, and often unexpected, acquaintances would bring him up in early conversation" — unprompted mentions from outside your core group
 - People bringing up idea without prompting
 - Discussing in spaces outside core group
 - Extending idea with their own thinking
 - Teaching others about it
 
-**Signal Type 2: Validator Emergence**
+**Signal Type 2: Nodes Beginning to Infect Other Nodes**
+- "Nodes began to infect other nodes" — organic spread beyond your coordinated effort
 - Respected figures publicly endorsing
 - Multiple independent validators
 - Validators from different networks
 - Building credibility bridges
 
-**Signal Type 3: Reduced Social Cost**
+**Signal Type 3: Reduced Social Cost (Transgression Declining)**
+- "It was no longer transgressive to mention his work" — social cost of public mention approaches zero
 - People discussing openly without fear
 - Less social punishment for mentioning it
 - Institutions allowing dialogue
 - Safe in professional contexts
 
-**Signal Type 4: Linguistic Shift**
+**Signal Type 4: Linguistic Shift (Defensive → Offensive Framing)**
 - Language about idea changing
 - From "crazy" → "interesting"
 - From "should suppress" → "how implement"
 - From defensive → offensive
 
-**Signal Type 5: Growth Metrics**
+**Signal Type 5: Growth Metrics (Transmission Acceleration)**
+- "Transmission rates improved (people began to cautiously, then actively, spread ideas until there were enough 'infected,' though siloed, networks)"
 - New believers appearing
 - Discussion increasing
 - Reaching new networks
 - Momentum building
 
-### Measurement Approach (Speculative)
+**Phase 2 → Phase 3 Signals (Coordinated Emergence → Tipping Point):**
 
-Without detailed methodology in source, possible approaches:
+**Signal Type 6: Invisibility Through Ubiquity (The Tipping Point)**
+- "Yarvin simply faded into view, slowly and imperceptibly, until his presence became self-evident" — the tipping point is often invisible in real time
+- The idea shifts from being noticed to being assumed
+- New people encounter it assuming others already know it
+- It becomes background context rather than novel claim
 
-**Method 1: Network Sampling**
+### Measurement Approach: External Conditions Shape Receptivity
+
+The Yarvin case shows that external events shift the landscape, making previously immune nodes receptive:
+
+"The culture wars intensified, leading more people to search for explanatory frameworks" — conditions changed, making previously immune nodes receptive. You're not just building receptivity; you're also watching for external conditions that flip immunity.
+
+**Measurement Methods:**
+
+**Method 1: Network Sampling (Informant Networks)**
 - Regular check-ins with key informants in networks
 - Ask: "Is receptivity changing? How?"
 - Track changes over time
 - Aggregate signals
+- Bonus: Informants notice shifts before they're publicly visible
 
-**Method 2: Content Analysis**
+**Method 2: Content Analysis (Linguistic Tracking)**
 - Monitor discussion about idea in public channels
 - Track tone/framing over time
 - Count mentions, sentiment, spread
-- Detect shifts
+- Detect shifts from transgressive → normal → assumed
+- Look for when it stops being novel and starts being context
 
-**Method 3: Direct Surveys**
+**Method 3: Direct Surveys (Quantitative Immunity)**
 - Periodic surveys of target network
 - "Would you consider this idea?" changes over time
 - Acceptance ratio trending up/down
 - Track immunity level quantitatively
 
-**Method 4: Behavioral Observation**
+**Method 4: Behavioral Observation (Who's Changing?)**
 - Who is discussing openly?
 - Who avoided before, engaging now?
 - Are new types of people interested?
 - Is adoption accelerating?
 
-**Method 5: Event-Based Monitoring**
+**Method 5: Event-Based Monitoring (External Conditions)**
 - Key triggering events
 - When does idea become relevant?
 - Do conditions naturally favor it?
 - External factors supporting spread?
+- Track major environmental shifts that might flip immunity
 
-### Phase Advancement Decision Rules (Speculative)
+### Phase Advancement Decision Rules: Yarvin's Signals
 
-Probable rules based on source context:
-
-**STAY IN PHASE 1 if:**
+**STAY IN PHASE 1 (Dark Forest) if:**
 - Zero signals of decreased immunity
 - Immunity is stable or increasing
 - No natural validators emerging
 - Risk of exposure too high
 
-**TRANSITION TO PHASE 2 if:**
-- Multiple signals of readiness present
-- Core group is stable and growing
-- Champions are committed and ready
-- Intellectual foundation is solid
+**TRANSITION TO PHASE 2 (Coordinated Emergence) if:**
+- Multiple signals of readiness present:
+  1. Unprompted mentions from OUTSIDE your coordinated network
+  2. Core group is stable and growing
+  3. Champions are committed and ready
+  4. Intellectual foundation is solid
+  5. Transmission rates starting to improve (cautious spread)
 
-**ADVANCE FROM PHASE 2 to PHASE 3 if:**
-- Immunity has MEASURABLY decreased
-- Multiple networks showing receptivity
-- Validators are visible
-- Champions are ready to go public
-- Cultural conditions are favorable
+**ADVANCE FROM PHASE 2 to PHASE 3 (Tipping Point/Public) if:**
+- ALL of these conditions are met:
+  1. Mentions appearing from OUTSIDE your coordinated network → entering Phase 2 territory
+  2. Multiple disconnected networks are discussing the idea → approaching Phase 3
+  3. Social cost of public mention is low → ready for public reveal
+  4. Immunity has MEASURABLY decreased
+  5. Validators are visible and credible
+  6. Champions are ready to go public
+  7. Cultural conditions are favorable
 
 **ABORT OR EXTEND if:**
 - Immunity is increasing/stable (not decreasing)
 - Organized opposition emerging
 - Champions showing burnout
 - Timeline is extending beyond 5-10 years
+
+**Critical Insight on Timing:**
+"How much a network chooses to reveal depends on incomplete information about other networks' positions" — you'll never have perfect timing data; look for convergence of signals. The Yarvin case shows that the tipping point often feels invisible in real time. Trust multiple independent signals rather than waiting for certainty.
 
 ## Output Template
 
@@ -325,7 +339,19 @@ Ideal monitor is:
 - Can you sustain it if conditions shift?
 - Fix: Track external factors separately
 
-**Mistake 5: Advancing Without Consensus**
+**Mistake 5: Premature Reveal**
+- "Naive bid for public favor without support from smaller networks will be swiftly snuffed out"
+- You reveal too early without Phase 2 support
+- Gets crushed by organized opposition
+- Fix: Ensure multiple disconnected networks are discussing before public reveal
+
+**Mistake 6: Over-Coordination Exposure**
+- "Members must carefully balance how frequently and overtly they support each other's views to avoid being 'outed'"
+- Your coordinated network becomes visible → credibility collapses
+- Looks orchestrated instead of organic
+- Fix: Vary timing, networks, and visibility of support
+
+**Mistake 7: Advancing Without Consensus**
 - Monitors disagree on readiness
 - You advance anyway
 - Results in messy reveal
