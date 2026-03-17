@@ -2,5 +2,6 @@
 __pycache__/
 *.pyc
 .env
-decomposition.md
-INDEX.md
+references/
+.cursor/hooks/state/
+
