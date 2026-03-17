@@ -16,33 +16,29 @@ Cursor will automatically discover all 14 skills from the `skills/` directory.
 
 ### Claude Code
 
-Install the recommended entry point (the orchestrator that routes to all other skills):
+Clone the repo locally and add it as a plugin:
 
 ```bash
-scripts/install-skill-from-github.py --repo gnurio/memetics-plugin --path skills/orchestrate-memetics
+git clone https://github.com/gnurio/memetics-plugin
 ```
 
-To install all 14 skills at once:
+Then in your terminal, reference it for a session:
 
 ```bash
-scripts/install-skill-from-github.py --repo gnurio/memetics-plugin \
-  --path skills/orchestrate-memetics \
-          skills/classify-idea \
-          skills/assess-fitness \
-          skills/evaluate-fitness \
-          skills/map-network \
-          skills/design-strategy \
-          skills/identify-champions \
-          skills/craft-content \
-          skills/detect-supermeme \
-          skills/transform-taboo \
-          skills/build-immunity \
-          skills/execute-calendar \
-          skills/monitor-receptivity \
-          skills/apply-domain
+claude --plugin-dir ./memetics-plugin
 ```
 
-Restart Claude Code after installing to pick up the new skills.
+Or add it permanently via the Claude Code TUI — open Claude Code and run:
+
+```
+/plugin add ./memetics-plugin
+```
+
+Claude Code will automatically discover all 14 skills from the `skills/` directory. Once this plugin is listed in a marketplace, you will also be able to install it with:
+
+```bash
+claude plugin install memetics-plugin
+```
 
 ## What's Inside
 
